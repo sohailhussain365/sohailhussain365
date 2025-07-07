@@ -60,8 +60,8 @@ With **1 year of hands-on experience at HKS Tech Labs**, I’ve contributed to r
 ## 🏢 Professional Experience
 
 ### 🔹 HKS Tech Labs — *Flutter Developer*  
-📅 *2023 – Present*  
-📍 Lahore, Pakistan  
+📅 *2024*  
+📍 Vehari, Pakistan  
 - Developed cross-platform mobile apps with Firebase backend  
 - Integrated custom APIs for ecommerce, social apps, and booking platforms  
 - Collaborated with designers and backend teams in agile environment  
@@ -73,10 +73,10 @@ With **1 year of hands-on experience at HKS Tech Labs**, I’ve contributed to r
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| **MyShop App** | E-commerce Flutter app with Firebase backend and Stripe integration | Flutter, Firebase, Stripe API |
-| **SocialBuzz** | Social media app with chat, stories, and real-time notifications | Flutter, Firebase, Push Notifications |
+| **Emart App** | E-commerce Flutter app with Firebase backend and Stripe integration | Flutter, Firebase, Stripe API |
+| **Doctor App** | Doctor app with chat, appointments, and real-time notifications | Flutter, Firebase, Push Notifications |
 | **EventBookr** | Booking app for event planners and vendors | Flutter, Supabase, REST APIs |
-| **DashboardX** | No-code web dashboard built with Bubble.io | Bubble.io, Custom Workflows |
+| **Webste** | No-code web dashboard built with Bubble.io | Bubble.io, Custom Workflows |
 
 ---
 
@@ -92,10 +92,10 @@ With **1 year of hands-on experience at HKS Tech Labs**, I’ve contributed to r
 ## 📬 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/muhammad-sohail-hussain-0665a630a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="sohailkhn996@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://your-website.com">
