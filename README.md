@@ -98,9 +98,9 @@ With **1 year of hands-on experience at HKS Tech Labs**, I’ve contributed to r
   <a href="sohailkhn996@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://your-website.com">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
+<a href="https://web.facebook.com/muhammad.sohail.hussnain" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
 </p>
 
 ---
